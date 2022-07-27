@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(255, 255, 255, 0.913);
+    font-family: sans-serif;
+    background-color: honeydew;
+}
+
+    .log-in{
+    position: absolute;
+    height: 200px;
+    width:  200px;
+    border-radius: 100%;
+    background-color: rgb(214, 214, 229);
+    margin-left: 500px;
+    
+
+}
+
+img{
+    position: absolute;
+    height: 170px;
+    width:  170px;
+    border-radius: 100%;
+    margin-left:14px;
+    margin-top:  14px ;
+    
+}
+
+h1{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 0px;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 50px;
+    opacity: 0.4;
+}
+
+p{
+    position: absolute;
+    margin-top: 540px;
+    opacity: 0.5;
+    font-size: 10px;
+}
+
+    .input-btn{
+    position: absolute;
+    margin-top: 340px;
+    width: 300px;
+    height: 37px;
+}
+
+.btn{
+position: absolute;
+margin-top: 370px;
+width: 300px;
+height: 37px;
+}
+
+.check{
+position: absolute;
+margin-top: 440px;
+width: 20px;
+height: 20px;
+}
+
+.box{
+position: absolute;
+margin-top: 440px;
+left: 40px;
+}
+
+.log{
+    position: absolute;
+    margin-top: 480px;
+    width: 310px;
+    height: 37px;
+    background-color: rgb(4, 4, 243);
+    border: none;
+    color: cornsilk;
+    cursor: pointer;
+
+}
+.log:hover{
+    background-color: cyan;
+    transition: 2s;
+}
+
+
+
+
